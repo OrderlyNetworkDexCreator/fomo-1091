@@ -2,9 +2,9 @@
   --oui-font-family: 'Manrope', sans-serif;
 
   /* colors */
-  --oui-color-primary: 121 74 246;
+  --oui-color-primary: 255 255 255;
   --oui-color-primary-light: 255 255 255;
-  --oui-color-primary-darken: 121 74 246;
+  --oui-color-primary-darken: 121 74 226;
   --oui-color-primary-contrast: 255 255 255;
 
   --oui-color-link: 150 150 150;
@@ -64,8 +64,8 @@
   --oui-gradient-danger-start: 153 24 76;
   --oui-gradient-danger-end: 245 97 139;
 
-  --oui-gradient-brand-start: 121 74 246;
-  --oui-gradient-brand-end: 121 74 246;
+  --oui-gradient-brand-start: 255 255 255;
+  --oui-gradient-brand-end: 255 255 255;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
   --oui-gradient-brand-angle: 17.44deg;
